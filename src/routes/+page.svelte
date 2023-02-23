@@ -53,12 +53,12 @@
 
 <main class="container">
 	<hgroup>
-		<h1>Your Safe Password</h1>
+		<h1>Generate a Password</h1>
 		<details>
 			<summary>How it Works</summary>
 			<p>
 				It uses the Web Crypto API in your Browser to generate random numbers with
-				Crypto.getRandomValues() and than mapped by the selected character sets.
+				Crypto.getRandomValues() and than mappes them by the selected character sets.
 			</p>
 		</details>
 	</hgroup>
